@@ -1,7 +1,6 @@
 # Krzysiek Worwa - pierwsza strona internetowa
 
 ![Krzysiek](images/zdjecie.jpg)
-
  ## Demo
 
  https://krzysiekworwa.github.io/homepage/
